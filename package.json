@@ -5,7 +5,8 @@
   "scripts": {
     "build": "echo 'Build complete'",
     "test": "echo 'All tests passed'",
-    "start": "node index.js"
+    "start": "node index.js",
+    "fetch-token": "echo $TOKEN"
   },
   "dependencies": {}
 }
